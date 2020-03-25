@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */		
+body{
+			background-image: url("images/white background.jpg");
+			background-size:cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+}
+
+.media-body {
+  margin-top: 0px;
+}
+#myPhoto{
+	width: 185px;
+	height: 300px;
+}
+#csinfo{
+	margin-top: 50px;
+}
+#csicon{
+	margin-top: 80px;
+}
+#pyinfo{
+	margin-top: 80px;
+}
+#bio{
+	font-size: 1.4em;
+}
+#work{
+	font-size: 1.4em;
+}
+#folio{
+	font-size: 1.4em;
+}
+#address{
+	margin-top: 25px;
+}
+
+
+
