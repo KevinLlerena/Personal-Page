@@ -4,7 +4,7 @@ body{
 			background-image: url("images/white background.jpg");
 			content: "";
   			display: block;
-  			position: fixed;
+  			
   			left: 0;
   			top: 0;
   			width: 100%;
