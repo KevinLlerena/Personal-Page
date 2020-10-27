@@ -3,7 +3,7 @@
 body{
 			background-image: url("images/white background.jpg");
 			background-size:cover;
-			
+			background-repeat: no-repeat;
 			background-attachment: fixed;
 			max-width: 100%;
     			width: auto!important; 
